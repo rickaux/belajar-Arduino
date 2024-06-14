@@ -3,9 +3,9 @@
 Selamat datang di repositori Proyek Elektronika XYZ. Repositori ini berisi semua kode sumber dan skematik untuk proyek elektronika yang kami kembangkan.
 
 ## Follow Us
-!Instagram
-[![Tiktok](https://th.bing.com/th/id/OIP.9MWWlZNl9u4UNasrw2Au9wHaIW?rs=1&pid=ImgDetMain)](www.tiktok.com/@rickaux4)
-
+<a href="https://www.tiktok.com/@bard.ai" target="_blank">
+  <img src="https://example.com/tiktok-button.png" alt="Ikuti Bard di TikTok" width="150" height="50">
+</a>
 </hr>
 
 ## Tentang Proyek
