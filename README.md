@@ -4,7 +4,7 @@ Selamat datang di repositori Proyek Elektronika XYZ. Repositori ini berisi semua
 
 ## Follow Us
 <a href="www.tiktok.com/@rickaux4" target="_blank">
-  <img src="[https://example.com/tiktok-button.png](https://th.bing.com/th/id/OIP.9MWWlZNl9u4UNasrw2Au9wHaIW?rs=1&pid=ImgDetMain)" alt="(https://th.bing.com/th/id/OIP.9MWWlZNl9u4UNasrw2Au9wHaIW?rs=1&pid=ImgDetMain)" width="150" height="50">
+  <img src="[[https://example.com/tiktok-button.png](https://th.bing.com/th/id/OIP.9MWWlZNl9u4UNasrw2Au9wHaIW?rs=1&pid=ImgDetMain)](https://th.bing.com/th/id/OIP.9MWWlZNl9u4UNasrw2Au9wHaIW?rs=1&pid=ImgDetMain)" alt="(https://th.bing.com/th/id/OIP.9MWWlZNl9u4UNasrw2Au9wHaIW?rs=1&pid=ImgDetMain)" width="150" height="50">
 </a>
 </hr>
 
